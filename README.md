@@ -1,3 +1,53 @@
+# Cấu trúc dự án (Project Structure)
+
+Bước 1
+↓
+Build Spring Boot project
+↓
+Bước 2
+↓
+Kết nối MySQL
+↓
+Bước 3
+↓
+Thiết kế Entity + Database
+↓
+Bước 4
+↓
+Repository
+↓
+Bước 5
+↓
+Service
+↓
+Bước 6
+↓
+Spring Security
+↓
+Bước 7
+↓
+Đăng ký / Đăng nhập
+↓
+Bước 8
+↓
+Phân quyền Admin / Seller / Customer
+↓
+Bước 9
+↓
+Quản lý sản phẩm
+↓
+Bước 10
+↓
+Giỏ hàng + Đặt hàng
+↓
+Bước 11
+↓
+Quản lý Seller
+↓
+Bước 12
+↓
+Admin Dashboard
+
 ecommerce-multivendor/
 │
 ├── pom.xml
@@ -256,3 +306,4 @@ ecommerce-multivendor/
                             ├── controller/
                             ├── service/
                             └── repository/
+```
